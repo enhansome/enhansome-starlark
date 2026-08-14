@@ -1,0 +1,512 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The language specification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T18:27:51Z",
+            "owner": "bazelbuild",
+            "repo": "starlark",
+            "stars": 3064
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "There are 4 known implementations of the Starlark language:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "starlark/java",
+              "description": "an implementation in Java built for Bazel, that may not be suitable for use in other applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-14T02:25:26Z",
+                "owner": "bazelbuild",
+                "repo": "bazel",
+                "stars": 25710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "starlark-go",
+              "description": "an implementation in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-10T21:17:05Z",
+                "owner": "google",
+                "repo": "starlark-go",
+                "stars": 2745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "starlark-rust",
+              "description": "an implementation in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-14T02:46:09Z",
+                "owner": "facebook",
+                "repo": "starlark-rust",
+                "stars": 1006
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "starlark-python",
+              "description": "an implementation in Python originally ported from Java by AI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-11T17:50:19Z",
+                "owner": "dbohdan",
+                "repo": "starlark-python",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bindings:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "starlark-pyo3",
+              "description": "Python bindings for Starlark in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-10T15:16:13Z",
+                "owner": "inducer",
+                "repo": "starlark-pyo3",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-starlark-go",
+              "description": "Python bindings for Starlark in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T18:52:30Z",
+                "owner": "caketop",
+                "repo": "python-starlark-go",
+                "stars": 35
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Getting Started"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Buildifier",
+          "description": "The official code formatter & linter. It can also apply automated fixes (e.g. remove unused loads).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T14:23:19Z",
+            "owner": "bazelbuild",
+            "repo": "buildtools",
+            "stars": 1185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlark Playground",
+          "description": "Starlark Playground is a web-based starlark editor. It uses the golang implementation of starlark running on a server to present a monaco editor set to python syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-12-03T08:11:32Z",
+            "owner": "qri-io",
+            "repo": "starpg",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonlark",
+          "description": "Starlark parser in C with Lua bindings. py2star - a basic converter from Python to Starlark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-12T02:25:47Z",
+            "owner": "obazl",
+            "repo": "moonlark",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Libraries that can be useful for the applications that embed Starlark:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Skycfg",
+          "description": "a library for Starlark to generate Protocol Buffer messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-10T19:49:05Z",
+            "owner": "stripe",
+            "repo": "skycfg",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlight",
+          "description": "a wrapper around the Starlark interpreter in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-17T04:45:26Z",
+            "owner": "starlight-go",
+            "repo": "starlight",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlib",
+          "description": "Qri's standard library for Starlark in Go that includes packages for regular expressions, reading XLSX documents, parsing ZIP archive, and other functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-04T04:13:57Z",
+            "owner": "qri-io",
+            "repo": "starlib",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlet",
+          "description": "a Go wrapper for the Starlark in Go that simplifies script execution, provides data conversion, and offers useful Starlark libraries and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-13T14:25:03Z",
+            "owner": "1set",
+            "repo": "starlet",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starlark-go-nethttp",
+          "description": "a wrapper around a minimal subset of for use within starlark-go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-27T06:48:47Z",
+            "owner": "pcj",
+            "repo": "starlark-go-nethttp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startype",
+          "description": "a library that implements two-way conversion between Starlark in Go API types and regular Go types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-15T16:39:42Z",
+            "owner": "vladimirvivien",
+            "repo": "startype",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starlark-re",
+          "description": "an implementation of Python's module for Starlark in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-13T09:09:39Z",
+            "owner": "magnetde",
+            "repo": "starlark-re",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starstruct",
+          "description": "a library for converting between Starlark in Go's type and Go structs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-05T20:24:05Z",
+            "owner": "mna",
+            "repo": "starstruct",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Libraries and extensions"
+    },
+    {
+      "description": "List of projects that use Starlark.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bazel",
+          "description": "a fast, scalable, multi-language and extensible build system. Starlark has been designed for Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T02:25:26Z",
+            "owner": "bazelbuild",
+            "repo": "bazel",
+            "stars": 25710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delve",
+          "description": "a debugger for the Go programming language, aiming to provide a simple, full featured debugging tool for Go. Delve uses Starlark as a a scripting language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T18:38:42Z",
+            "owner": "go-delve",
+            "repo": "delve",
+            "stars": 24875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copybara",
+          "description": "a tool for transforming and moving code between repositories. It embeds Starlark to configure the workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T18:33:27Z",
+            "owner": "google",
+            "repo": "copybara",
+            "stars": 3795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "envd",
+          "description": "a CLI to build the docker images for machine learning development and production environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T03:58:33Z",
+            "owner": "tensorchord",
+            "repo": "envd",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoKitteh",
+          "description": "a developer platform for workflow automation and orchestration. It is a code-based alternative to no/low-code platforms. Workflows can be defined using Starlark.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-05-14T22:10:15Z",
+            "owner": "autokitteh",
+            "repo": "autokitteh",
+            "stars": 1139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRun",
+          "description": "web app development and deployment platform for internal tools. It allows declarative deployment of applications built in any language/framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T03:09:23Z",
+            "owner": "openrundev",
+            "repo": "openrun",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixlet",
+          "description": "a runtime and UX toolkit for generating animations for small LED displays, such as Tidbyt. Starlark is used to write applets whose outputs are WebP animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T23:04:02Z",
+            "owner": "tidbyt",
+            "repo": "pixlet",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "realm",
+          "description": "an Adversary Emulation Framework with a focus on scalability, reliability, and automation. It is highly performant and is designed for engagements of any size. See how they use Starlark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T04:08:29Z",
+            "owner": "spellshift",
+            "repo": "realm",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remarshal",
+          "description": "a data format converter for CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2. Supports transformations written in Starlark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T07:20:07Z",
+            "owner": "remarshal-project",
+            "repo": "remarshal",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kurtosis",
+          "description": "a developer tool for engineers to package and run environments of containerized services for development, testing, and production. Starlark is used as the DSL for defining those environments in a deterministic, portable, and readable way, without compromising usability for complex cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T20:47:47Z",
+            "owner": "kurtosis-tech",
+            "repo": "kurtosis",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isopod",
+          "description": "created by Cruise Automation is a DSL framework for Kubernetes configuration. It renders Kubernetes objects as Protocol Buffers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-17T05:24:18Z",
+            "owner": "cruise-automation",
+            "repo": "isopod",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recur",
+          "description": "a command-line tool that retries a command with exponential backoff plus jitter to mitigate the thundering herd problem. The success condition is written as a Starlark expression.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T13:47:13Z",
+            "owner": "dbohdan",
+            "repo": "recur",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bramble",
+          "description": "a purely functional build system and package manager, using Starlark as the configuration language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-29T14:47:53Z",
+            "owner": "maxmcd",
+            "repo": "bramble",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsCode",
+          "description": "a tool to define infrastructure as code using the Starlark language on top of Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-21T18:37:03Z",
+            "owner": "mcuadros",
+            "repo": "ascode",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnetlark",
+          "description": "a web server with handlers written in Starlark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-19T13:51:35Z",
+            "owner": "xyproto",
+            "repo": "gnetlark",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Users"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:10:22.905Z",
+    "original_repository": "laurentlb/awesome-starlark",
+    "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
+    "enhanced_repository": "enhansome/enhansome-starlark",
+    "enhanced_repository_description": null,
+    "title": "Awesome Starlark with stars"
+  }
+}
