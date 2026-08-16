@@ -14,7 +14,7 @@
             "last_commit": "2026-02-06T18:27:51Z",
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3066
+            "stars": 3068
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-13T18:38:42Z",
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24878
+            "stars": 24877
           }
         },
         {
@@ -365,10 +365,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T21:49:13Z",
+            "last_commit": "2026-08-15T05:29:43Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -393,7 +393,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-06T04:08:29Z",
+            "last_commit": "2026-08-15T21:41:28Z",
             "owner": "spellshift",
             "repo": "realm",
             "stars": 633
@@ -410,7 +410,7 @@
             "last_commit": "2026-08-01T07:20:07Z",
             "owner": "remarshal-project",
             "repo": "remarshal",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -502,7 +502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:02:10.865Z",
+    "last_updated": "2026-08-16T02:09:19.663Z",
     "original_repository": "laurentlb/awesome-starlark",
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
     "enhanced_repository": "enhansome/enhansome-starlark",
