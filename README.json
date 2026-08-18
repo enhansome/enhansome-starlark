@@ -14,7 +14,7 @@
             "last_commit": "2026-02-06T18:27:51Z",
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3068
+            "stars": 3071
           }
         },
         {
@@ -30,10 +30,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-15T00:13:42Z",
+                "last_commit": "2026-08-18T00:31:37Z",
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25721
+                "stars": 25722
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-10T21:17:05Z",
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2746
+                "stars": 2749
               }
             },
             {
@@ -58,10 +58,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-14T12:02:24Z",
+                "last_commit": "2026-08-17T18:50:05Z",
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1008
+                "stars": 1009
               }
             },
             {
@@ -107,7 +107,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T18:52:30Z",
+                "last_commit": "2026-08-17T19:23:09Z",
                 "owner": "caketop",
                 "repo": "python-starlark-go",
                 "stars": 35
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T00:13:42Z",
+            "last_commit": "2026-08-18T00:31:37Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25721
+            "stars": 25722
           }
         },
         {
@@ -309,10 +309,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:38:42Z",
+            "last_commit": "2026-08-17T23:26:54Z",
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24878
+            "stars": 24879
           }
         },
         {
@@ -323,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T05:55:27Z",
+            "last_commit": "2026-08-17T19:25:09Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3796
+            "stars": 3798
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2026-07-25T03:58:33Z",
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2222
+            "stars": 2223
           }
         },
         {
@@ -365,10 +365,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T00:21:53Z",
+            "last_commit": "2026-08-17T04:19:34Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 934
+            "stars": 935
           }
         },
         {
@@ -379,7 +379,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T13:32:20Z",
+            "last_commit": "2026-08-17T13:37:58Z",
             "owner": "tidbyt",
             "repo": "pixlet",
             "stars": 847
@@ -502,7 +502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:06:59.767Z",
+    "last_updated": "2026-08-18T02:03:43.953Z",
     "original_repository": "laurentlb/awesome-starlark",
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
     "enhanced_repository": "enhansome/enhansome-starlark",
