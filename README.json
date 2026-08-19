@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145010913,
             "language": "Python",
             "last_commit": "2026-02-06T18:27:51Z",
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3071
+            "stars": 3072
           }
         },
         {
@@ -29,11 +30,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 20773773,
                 "language": "Java",
-                "last_commit": "2026-08-18T21:22:08Z",
+                "last_commit": "2026-08-19T10:04:26Z",
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25727
+                "stars": 25729
               }
             },
             {
@@ -43,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 154343814,
                 "language": "Go",
                 "last_commit": "2026-07-10T21:17:05Z",
                 "owner": "google",
@@ -57,8 +60,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 319383495,
                 "language": "Rust",
-                "last_commit": "2026-08-18T22:48:46Z",
+                "last_commit": "2026-08-19T05:39:50Z",
                 "owner": "facebook",
                 "repo": "starlark-rust",
                 "stars": 1010
@@ -71,6 +75,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1229127170,
                 "language": "Python",
                 "last_commit": "2026-06-11T17:50:19Z",
                 "owner": "dbohdan",
@@ -92,6 +97,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 435390612,
                 "language": "Rust",
                 "last_commit": "2026-08-10T15:16:13Z",
                 "owner": "inducer",
@@ -106,6 +112,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 481312275,
                 "language": "Python",
                 "last_commit": "2026-08-18T18:55:12Z",
                 "owner": "caketop",
@@ -119,7 +126,7 @@
       "title": "Getting Started"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,8 +135,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60805080,
             "language": "Go",
-            "last_commit": "2026-07-16T14:23:19Z",
+            "last_commit": "2026-08-19T10:39:27Z",
             "owner": "bazelbuild",
             "repo": "buildtools",
             "stars": 1187
@@ -142,6 +150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147097756,
             "language": "Go",
             "last_commit": "2022-12-03T08:11:32Z",
             "owner": "qri-io",
@@ -156,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395074223,
             "language": "C",
             "last_commit": "2021-08-12T02:25:47Z",
             "owner": "obazl",
@@ -176,6 +186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145074684,
             "language": "Go",
             "last_commit": "2026-08-14T19:11:47Z",
             "owner": "stripe",
@@ -190,6 +201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105833862,
             "language": "Go",
             "last_commit": "2024-05-17T04:45:26Z",
             "owner": "starlight-go",
@@ -204,6 +216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148955221,
             "language": "Go",
             "last_commit": "2023-12-04T04:13:57Z",
             "owner": "qri-io",
@@ -218,6 +231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643249613,
             "language": "Go",
             "last_commit": "2026-07-13T14:25:03Z",
             "owner": "1set",
@@ -232,6 +246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160700519,
             "language": "Go",
             "last_commit": "2020-09-27T06:48:47Z",
             "owner": "pcj",
@@ -246,6 +261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583735985,
             "language": "Go",
             "last_commit": "2026-03-15T16:39:42Z",
             "owner": "vladimirvivien",
@@ -260,6 +276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714313723,
             "language": "Go",
             "last_commit": "2026-03-13T09:09:39Z",
             "owner": "magnetde",
@@ -274,6 +291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594284901,
             "language": "Go",
             "last_commit": "2023-02-05T20:24:05Z",
             "owner": "mna",
@@ -294,11 +312,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-18T21:22:08Z",
+            "last_commit": "2026-08-19T10:04:26Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25727
+            "stars": 25729
           }
         },
         {
@@ -308,6 +327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19994257,
             "language": "Go",
             "last_commit": "2026-08-18T18:21:58Z",
             "owner": "go-delve",
@@ -322,11 +342,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67722017,
             "language": "Java",
             "last_commit": "2026-08-18T22:09:52Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3800
+            "stars": 3802
           }
         },
         {
@@ -336,11 +357,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480303698,
             "language": "Go",
             "last_commit": "2026-07-25T03:58:33Z",
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2224
+            "stars": 2223
           }
         },
         {
@@ -350,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 758802433,
             "language": "Go",
             "last_commit": "2026-05-14T22:10:15Z",
             "owner": "autokitteh",
@@ -364,8 +387,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-18T21:35:03Z",
+            "last_commit": "2026-08-19T04:35:50Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 935
@@ -378,6 +402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303830736,
             "language": "Go",
             "last_commit": "2026-08-17T13:37:58Z",
             "owner": "tidbyt",
@@ -392,6 +417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459365817,
             "language": "Rust",
             "last_commit": "2026-08-15T21:41:28Z",
             "owner": "spellshift",
@@ -406,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24801045,
             "language": "Python",
             "last_commit": "2026-08-01T07:20:07Z",
             "owner": "remarshal-project",
@@ -420,11 +447,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601684708,
             "language": "Go",
             "last_commit": "2026-08-18T20:13:45Z",
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
-            "stars": 548
+            "stars": 549
           }
         },
         {
@@ -434,6 +462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206711402,
             "language": "Go",
             "last_commit": "2023-11-17T05:24:18Z",
             "owner": "cruise-automation",
@@ -448,6 +477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875231787,
             "language": "Go",
             "last_commit": "2026-07-23T13:47:13Z",
             "owner": "dbohdan",
@@ -462,6 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272861057,
             "language": "Go",
             "last_commit": "2023-03-29T14:47:53Z",
             "owner": "maxmcd",
@@ -476,6 +507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193985540,
             "language": "Go",
             "last_commit": "2024-10-21T18:37:03Z",
             "owner": "mcuadros",
@@ -490,6 +522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210335149,
             "language": "Go",
             "last_commit": "2026-06-19T13:51:35Z",
             "owner": "xyproto",
@@ -502,8 +535,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:05:47.377Z",
+    "last_updated": "2026-08-19T12:54:34.931Z",
     "original_repository": "laurentlb/awesome-starlark",
+    "original_repository_id": 880412340,
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
     "enhanced_repository": "enhansome/enhansome-starlark",
     "enhanced_repository_description": null,
