@@ -9,15 +9,15 @@ Starlark is a simple, Python-like language designed to be embedded in another ap
 * [The language specification](https://github.com/bazelbuild/starlark/blob/master/spec.md) ⭐ 3,074 | 🐛 96 | 🌐 Python | 📅 2026-02-06
 
 * There are 4 known implementations of the Starlark language:
-  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,751 | 🐛 1,933 | 🌐 Java | 📅 2026-08-21 - an implementation in Java
+  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,756 | 🐛 1,935 | 🌐 Java | 📅 2026-08-24 - an implementation in Java
     built for Bazel, that may not be suitable for use in other applications.
   * [starlark-go](https://github.com/google/starlark-go/) ⭐ 2,751 | 🐛 78 | 🌐 Go | 📅 2026-07-10 - an implementation in Go.
-  * [starlark-rust](https://github.com/facebookexperimental/starlark-rust) ⭐ 1,011 | 🐛 39 | 🌐 Rust | 📅 2026-08-22 - an implementation in Rust.
+  * [starlark-rust](https://github.com/facebookexperimental/starlark-rust) ⭐ 1,012 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - an implementation in Rust.
   * [starlark-python](https://github.com/dbohdan/starlark-python) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-11 - an implementation in Python originally ported from Java by AI.
 
 * Bindings:
 
-  * [starlark-pyo3](https://github.com/inducer/starlark-pyo3) ⭐ 44 | 🐛 4 | 🌐 Rust | 📅 2026-08-23 - Python bindings for Starlark in Rust.
+  * [starlark-pyo3](https://github.com/inducer/starlark-pyo3) ⭐ 44 | 🐛 4 | 🌐 Rust | 📅 2026-08-24 - Python bindings for Starlark in Rust.
   * [python-starlark-go](https://github.com/caketop/python-starlark-go) ⭐ 35 | 🐛 20 | 🌐 Python | 📅 2026-08-19 - Python bindings for Starlark in Go.
   * [HarikrishnanBalagopal/starlark-webasm](https://www.npmjs.com/package/starlark-webasm) - a webassembly package for starlark-go.
 
@@ -81,14 +81,14 @@ Otherwise, consider using a Python mode.
 
 List of projects that use Starlark.
 
-* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,751 | 🐛 1,933 | 🌐 Java | 📅 2026-08-21 - a fast, scalable,
+* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,756 | 🐛 1,935 | 🌐 Java | 📅 2026-08-24 - a fast, scalable,
   multi-language and extensible build system. Starlark has been designed for
   Bazel.
-* [Delve](https://github.com/go-delve/delve) ⭐ 24,891 | 🐛 88 | 🌐 Go | 📅 2026-08-21 - a debugger for the Go
+* [Delve](https://github.com/go-delve/delve) ⭐ 24,892 | 🐛 89 | 🌐 Go | 📅 2026-08-21 - a debugger for the Go
   programming language, aiming to provide a simple, full featured debugging
-  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,891 | 🐛 88 | 🌐 Go | 📅 2026-08-21
+  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,892 | 🐛 89 | 🌐 Go | 📅 2026-08-21
   as a a scripting language.
-* [Copybara](https://github.com/google/copybara) ⭐ 3,808 | 🐛 105 | 🌐 Java | 📅 2026-08-21 - a tool for transforming and
+* [Copybara](https://github.com/google/copybara) ⭐ 3,808 | 🐛 105 | 🌐 Java | 📅 2026-08-24 - a tool for transforming and
   moving code between repositories. It embeds Starlark to configure the workflow.
 * [envd](https://github.com/tensorchord/envd) ⭐ 2,226 | 🐛 139 | 🌐 Go | 📅 2026-07-25 - a CLI to build the docker images
   for machine learning development and production environments.
