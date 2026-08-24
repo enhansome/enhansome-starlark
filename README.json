@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-21T23:15:19Z",
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25745
+                "stars": 25751
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-07-10T21:17:05Z",
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2749
+                "stars": 2751
               }
             },
             {
@@ -65,7 +65,7 @@
                 "last_commit": "2026-08-22T01:25:59Z",
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1010
+                "stars": 1011
               }
             },
             {
@@ -99,7 +99,7 @@
                 "archived": false,
                 "id": 435390612,
                 "language": "Rust",
-                "last_commit": "2026-08-10T15:16:13Z",
+                "last_commit": "2026-08-23T22:15:43Z",
                 "owner": "inducer",
                 "repo": "starlark-pyo3",
                 "stars": 44
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-19T13:51:30Z",
             "owner": "bazel-contrib",
             "repo": "buildtools",
-            "stars": 1188
+            "stars": 1189
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2026-08-21T23:15:19Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25745
+            "stars": 25751
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-21T18:04:30Z",
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24888
+            "stars": 24891
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-21T18:50:26Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3805
+            "stars": 3808
           }
         },
         {
@@ -389,10 +389,10 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-22T04:51:38Z",
+            "last_commit": "2026-08-23T04:16:13Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-08-15T21:41:28Z",
             "owner": "spellshift",
             "repo": "realm",
-            "stars": 634
+            "stars": 635
           }
         },
         {
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:11:53.411Z",
+    "last_updated": "2026-08-24T02:09:58.653Z",
     "original_repository": "laurentlb/awesome-starlark",
     "original_repository_id": 880412340,
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
