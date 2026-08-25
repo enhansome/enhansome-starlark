@@ -88,7 +88,7 @@ List of projects that use Starlark.
   programming language, aiming to provide a simple, full featured debugging
   tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,893 | 🐛 89 | 🌐 Go | 📅 2026-08-21
   as a a scripting language.
-* [Copybara](https://github.com/google/copybara) ⭐ 3,812 | 🐛 105 | 🌐 Java | 📅 2026-08-24 - a tool for transforming and
+* [Copybara](https://github.com/google/copybara) ⭐ 3,813 | 🐛 105 | 🌐 Java | 📅 2026-08-24 - a tool for transforming and
   moving code between repositories. It embeds Starlark to configure the workflow.
 * [envd](https://github.com/tensorchord/envd) ⭐ 2,226 | 🐛 139 | 🌐 Go | 📅 2026-07-25 - a CLI to build the docker images
   for machine learning development and production environments.

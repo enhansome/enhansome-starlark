@@ -347,7 +347,7 @@
             "last_commit": "2026-08-24T11:09:09Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3812
+            "stars": 3813
           }
         },
         {
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:06:14.688Z",
+    "last_updated": "2026-08-25T06:34:09.018Z",
     "original_repository": "laurentlb/awesome-starlark",
     "original_repository_id": 880412340,
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
