@@ -32,10 +32,10 @@
                 "archived": false,
                 "id": 20773773,
                 "language": "Java",
-                "last_commit": "2026-08-24T21:27:42Z",
+                "last_commit": "2026-08-26T01:48:08Z",
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25761
+                "stars": 25763
               }
             },
             {
@@ -62,7 +62,7 @@
                 "archived": false,
                 "id": 319383495,
                 "language": "Rust",
-                "last_commit": "2026-08-24T23:22:42Z",
+                "last_commit": "2026-08-25T21:47:44Z",
                 "owner": "facebook",
                 "repo": "starlark-rust",
                 "stars": 1012
@@ -314,10 +314,10 @@
             "archived": false,
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-24T21:27:42Z",
+            "last_commit": "2026-08-26T01:48:08Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25761
+            "stars": 25763
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-21T18:04:30Z",
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24893
+            "stars": 24891
           }
         },
         {
@@ -344,10 +344,10 @@
             "archived": false,
             "id": 67722017,
             "language": "Java",
-            "last_commit": "2026-08-24T11:09:09Z",
+            "last_commit": "2026-08-25T19:53:36Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3813
+            "stars": 3815
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-07-25T03:58:33Z",
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2226
+            "stars": 2227
           }
         },
         {
@@ -389,7 +389,7 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-23T04:16:13Z",
+            "last_commit": "2026-08-26T01:29:36Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 942
@@ -404,7 +404,7 @@
             "archived": false,
             "id": 303830736,
             "language": "Go",
-            "last_commit": "2026-08-23T01:02:04Z",
+            "last_commit": "2026-08-25T21:42:25Z",
             "owner": "tidbyt",
             "repo": "pixlet",
             "stars": 847
@@ -449,7 +449,7 @@
             "archived": false,
             "id": 601684708,
             "language": "Go",
-            "last_commit": "2026-08-18T20:13:45Z",
+            "last_commit": "2026-08-25T19:53:04Z",
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
             "stars": 549
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:09.018Z",
+    "last_updated": "2026-08-26T02:11:59.067Z",
     "original_repository": "laurentlb/awesome-starlark",
     "original_repository_id": 880412340,
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
