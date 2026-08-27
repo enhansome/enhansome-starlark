@@ -9,7 +9,7 @@ Starlark is a simple, Python-like language designed to be embedded in another ap
 * [The language specification](https://github.com/bazelbuild/starlark/blob/master/spec.md) ⭐ 3,075 | 🐛 96 | 🌐 Python | 📅 2026-02-06
 
 * There are 4 known implementations of the Starlark language:
-  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,767 | 🐛 1,922 | 🌐 Java | 📅 2026-08-27 - an implementation in Java
+  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,767 | 🐛 1,921 | 🌐 Java | 📅 2026-08-27 - an implementation in Java
     built for Bazel, that may not be suitable for use in other applications.
   * [starlark-go](https://github.com/google/starlark-go/) ⭐ 2,754 | 🐛 78 | 🌐 Go | 📅 2026-07-10 - an implementation in Go.
   * [starlark-rust](https://github.com/facebookexperimental/starlark-rust) ⭐ 1,015 | 🐛 38 | 🌐 Rust | 📅 2026-08-27 - an implementation in Rust.
@@ -30,7 +30,7 @@ Starlark is a simple, Python-like language designed to be embedded in another ap
 
 ## Tools
 
-* [Buildifier](https://github.com/bazelbuild/buildtools) ⭐ 1,190 | 🐛 119 | 🌐 Go | 📅 2026-08-26 - The official code formatter &
+* [Buildifier](https://github.com/bazelbuild/buildtools) ⭐ 1,190 | 🐛 120 | 🌐 Go | 📅 2026-08-26 - The official code formatter &
   linter. It can also apply automated fixes (e.g. remove unused loads).
 * [Starlark Playground](https://github.com/qri-io/starpg) ⭐ 36 | 🐛 12 | 🌐 Go | 📅 2022-12-03 - Starlark Playground
   is a web-based starlark editor. It uses the golang implementation of starlark
@@ -81,12 +81,12 @@ Otherwise, consider using a Python mode.
 
 List of projects that use Starlark.
 
-* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,767 | 🐛 1,922 | 🌐 Java | 📅 2026-08-27 - a fast, scalable,
+* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,767 | 🐛 1,921 | 🌐 Java | 📅 2026-08-27 - a fast, scalable,
   multi-language and extensible build system. Starlark has been designed for
   Bazel.
-* [Delve](https://github.com/go-delve/delve) ⭐ 24,893 | 🐛 86 | 🌐 Go | 📅 2026-08-26 - a debugger for the Go
+* [Delve](https://github.com/go-delve/delve) ⭐ 24,894 | 🐛 86 | 🌐 Go | 📅 2026-08-26 - a debugger for the Go
   programming language, aiming to provide a simple, full featured debugging
-  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,893 | 🐛 86 | 🌐 Go | 📅 2026-08-26
+  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,894 | 🐛 86 | 🌐 Go | 📅 2026-08-26
   as a a scripting language.
 * [Copybara](https://github.com/google/copybara) ⭐ 3,816 | 🐛 105 | 🌐 Java | 📅 2026-08-26 - a tool for transforming and
   moving code between repositories. It embeds Starlark to configure the workflow.

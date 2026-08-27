@@ -32,7 +32,7 @@
                 "archived": false,
                 "id": 20773773,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:40:31Z",
+                "last_commit": "2026-08-27T11:51:57Z",
                 "owner": "bazelbuild",
                 "repo": "bazel",
                 "stars": 25767
@@ -314,7 +314,7 @@
             "archived": false,
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-27T09:40:31Z",
+            "last_commit": "2026-08-27T11:51:57Z",
             "owner": "bazelbuild",
             "repo": "bazel",
             "stars": 25767
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-26T23:28:43Z",
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24893
+            "stars": 24894
           }
         },
         {
@@ -535,9 +535,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:27:47.968Z",
-    "original_repository": "laurentlb/awesome-starlark",
-    "original_repository_id": 880412340,
+    "last_updated": "2026-08-27T12:06:30.678Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 880412340,
+      "language": null,
+      "last_commit": "2026-05-23T18:20:35Z",
+      "owner": "laurentlb",
+      "repo": "awesome-starlark",
+      "stars": 80
+    },
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
     "enhanced_repository": "enhansome/enhansome-starlark",
     "enhanced_repository_description": null,
