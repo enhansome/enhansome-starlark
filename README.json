@@ -15,7 +15,7 @@
             "last_commit": "2026-02-06T18:27:51Z",
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3074
+            "stars": 3075
           }
         },
         {
@@ -32,10 +32,10 @@
                 "archived": false,
                 "id": 20773773,
                 "language": "Java",
-                "last_commit": "2026-08-26T01:48:08Z",
+                "last_commit": "2026-08-27T09:40:31Z",
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25763
+                "stars": 25767
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-07-10T21:17:05Z",
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2752
+                "stars": 2754
               }
             },
             {
@@ -62,10 +62,10 @@
                 "archived": false,
                 "id": 319383495,
                 "language": "Rust",
-                "last_commit": "2026-08-25T21:47:44Z",
+                "last_commit": "2026-08-27T05:58:58Z",
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1012
+                "stars": 1015
               }
             },
             {
@@ -137,10 +137,10 @@
             "archived": false,
             "id": 60805080,
             "language": "Go",
-            "last_commit": "2026-08-24T16:36:18Z",
+            "last_commit": "2026-08-26T22:13:25Z",
             "owner": "bazel-contrib",
             "repo": "buildtools",
-            "stars": 1189
+            "stars": 1190
           }
         },
         {
@@ -256,6 +256,21 @@
         },
         {
           "node_type": "item",
+          "title": "starlark-re",
+          "description": "an implementation of Python's module for Starlark in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 714313723,
+            "language": "Go",
+            "last_commit": "2026-08-22T10:28:07Z",
+            "owner": "magnetde",
+            "repo": "starlark-re",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Startype",
           "description": "a library that implements two-way conversion between Starlark in Go API types and regular Go types.",
           "children": [],
@@ -267,21 +282,6 @@
             "owner": "vladimirvivien",
             "repo": "startype",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "starlark-re",
-          "description": "an implementation of Python's module for Starlark in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 714313723,
-            "language": "Go",
-            "last_commit": "2026-08-22T10:28:07Z",
-            "owner": "magnetde",
-            "repo": "starlark-re",
-            "stars": 9
           }
         },
         {
@@ -314,10 +314,10 @@
             "archived": false,
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-26T01:48:08Z",
+            "last_commit": "2026-08-27T09:40:31Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25763
+            "stars": 25767
           }
         },
         {
@@ -329,10 +329,10 @@
             "archived": false,
             "id": 19994257,
             "language": "Go",
-            "last_commit": "2026-08-21T18:04:30Z",
+            "last_commit": "2026-08-26T23:28:43Z",
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24891
+            "stars": 24893
           }
         },
         {
@@ -344,10 +344,10 @@
             "archived": false,
             "id": 67722017,
             "language": "Java",
-            "last_commit": "2026-08-25T19:53:36Z",
+            "last_commit": "2026-08-26T18:20:28Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3815
+            "stars": 3816
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-07-25T03:58:33Z",
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2227
+            "stars": 2228
           }
         },
         {
@@ -389,10 +389,10 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-26T01:29:36Z",
+            "last_commit": "2026-08-26T23:03:24Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 942
+            "stars": 946
           }
         },
         {
@@ -404,7 +404,7 @@
             "archived": false,
             "id": 303830736,
             "language": "Go",
-            "last_commit": "2026-08-25T21:42:25Z",
+            "last_commit": "2026-08-26T12:52:00Z",
             "owner": "tidbyt",
             "repo": "pixlet",
             "stars": 847
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:11:59.067Z",
+    "last_updated": "2026-08-27T10:27:47.968Z",
     "original_repository": "laurentlb/awesome-starlark",
     "original_repository_id": 880412340,
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
