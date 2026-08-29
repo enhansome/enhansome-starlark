@@ -6,12 +6,12 @@ Starlark is a simple, Python-like language designed to be embedded in another ap
 
 ## Getting Started
 
-* [The language specification](https://github.com/bazelbuild/starlark/blob/master/spec.md) ⭐ 3,077 | 🐛 97 | 🌐 Python | 📅 2026-02-06
+* [The language specification](https://github.com/bazelbuild/starlark/blob/master/spec.md) ⭐ 3,076 | 🐛 97 | 🌐 Python | 📅 2026-02-06
 
 * There are 4 known implementations of the Starlark language:
-  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,770 | 🐛 1,917 | 🌐 Java | 📅 2026-08-28 - an implementation in Java
+  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,773 | 🐛 1,911 | 🌐 Java | 📅 2026-08-28 - an implementation in Java
     built for Bazel, that may not be suitable for use in other applications.
-  * [starlark-go](https://github.com/google/starlark-go/) ⭐ 2,754 | 🐛 78 | 🌐 Go | 📅 2026-07-10 - an implementation in Go.
+  * [starlark-go](https://github.com/google/starlark-go/) ⭐ 2,753 | 🐛 77 | 🌐 Go | 📅 2026-08-28 - an implementation in Go.
   * [starlark-rust](https://github.com/facebookexperimental/starlark-rust) ⭐ 1,015 | 🐛 38 | 🌐 Rust | 📅 2026-08-27 - an implementation in Rust.
   * [starlark-python](https://github.com/dbohdan/starlark-python) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-11 - an implementation in Python originally ported from Java by AI.
 
@@ -53,7 +53,7 @@ Libraries that can be useful for the applications that embed Starlark:
 * [Starlib](https://github.com/qri-io/starlib) ⭐ 143 | 🐛 39 | 🌐 Go | 📅 2023-12-04 - Qri's standard library for
   Starlark in Go that includes packages for regular expressions, reading XLSX
   documents, parsing ZIP archive, and other functionality.
-* [Starlet](https://github.com/1set/starlet) ⭐ 48 | 🐛 2 | 🌐 Go | 📅 2026-07-13 - a Go wrapper for the [Starlark in Go](https://github.com/google/starlark-go) ⭐ 2,754 | 🐛 78 | 🌐 Go | 📅 2026-07-10 that
+* [Starlet](https://github.com/1set/starlet) ⭐ 48 | 🐛 2 | 🌐 Go | 📅 2026-07-13 - a Go wrapper for the [Starlark in Go](https://github.com/google/starlark-go) ⭐ 2,753 | 🐛 77 | 🌐 Go | 📅 2026-08-28 that
   simplifies script execution, provides data conversion, and offers useful Starlark libraries and extensions.
 * [starlark-go-nethttp](https://github.com/pcj/starlark-go-nethttp) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2020-09-27 - a wrapper
   around a minimal subset of `net/http package` for use within starlark-go.
@@ -81,14 +81,14 @@ Otherwise, consider using a Python mode.
 
 List of projects that use Starlark.
 
-* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,770 | 🐛 1,917 | 🌐 Java | 📅 2026-08-28 - a fast, scalable,
+* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,773 | 🐛 1,911 | 🌐 Java | 📅 2026-08-28 - a fast, scalable,
   multi-language and extensible build system. Starlark has been designed for
   Bazel.
-* [Delve](https://github.com/go-delve/delve) ⭐ 24,897 | 🐛 88 | 🌐 Go | 📅 2026-08-26 - a debugger for the Go
+* [Delve](https://github.com/go-delve/delve) ⭐ 24,899 | 🐛 88 | 🌐 Go | 📅 2026-08-26 - a debugger for the Go
   programming language, aiming to provide a simple, full featured debugging
-  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,897 | 🐛 88 | 🌐 Go | 📅 2026-08-26
+  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,899 | 🐛 88 | 🌐 Go | 📅 2026-08-26
   as a a scripting language.
-* [Copybara](https://github.com/google/copybara) ⭐ 3,820 | 🐛 105 | 🌐 Java | 📅 2026-08-26 - a tool for transforming and
+* [Copybara](https://github.com/google/copybara) ⭐ 3,821 | 🐛 105 | 🌐 Java | 📅 2026-08-26 - a tool for transforming and
   moving code between repositories. It embeds Starlark to configure the workflow.
 * [envd](https://github.com/tensorchord/envd) ⭐ 2,228 | 🐛 139 | 🌐 Go | 📅 2026-07-25 - a CLI to build the docker images
   for machine learning development and production environments.
@@ -96,10 +96,10 @@ List of projects that use Starlark.
   for workflow automation and orchestration. It is a code-based alternative to
   no/low-code platforms. Workflows can be defined
   [using Starlark](https://docs.autokitteh.com/glossary/starlark).
-* [OpenRun](https://github.com/openrundev/openrun) ⭐ 946 | 🐛 1 | 🌐 Go | 📅 2026-08-26 - web app development and deployment
+* [OpenRun](https://github.com/openrundev/openrun) ⭐ 947 | 🐛 1 | 🌐 Go | 📅 2026-08-26 - web app development and deployment
   platform for internal tools. It allows declarative deployment of applications built
   in any language/framework.
-* [Pixlet](https://github.com/tidbyt/pixlet) ⭐ 847 | 🐛 71 | 🌐 Go | 📅 2026-08-26 - a runtime and UX toolkit for generating animations for small LED displays, such as [Tidbyt](https://tidbyt.com/). Starlark is used to write applets whose outputs are WebP animations.
+* [Pixlet](https://github.com/tidbyt/pixlet) ⭐ 847 | 🐛 71 | 🌐 Go | 📅 2026-08-29 - a runtime and UX toolkit for generating animations for small LED displays, such as [Tidbyt](https://tidbyt.com/). Starlark is used to write applets whose outputs are WebP animations.
 * [realm](https://github.com/spellshift/realm) ⭐ 635 | 🐛 84 | 🌐 Rust | 📅 2026-08-15 - an Adversary Emulation Framework
   with a focus on scalability, reliability, and automation. It is highly performant and is
   designed for engagements of any size. See
@@ -158,4 +158,4 @@ List of projects that use Starlark.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starlark Language",
+            "homepage": null,
             "id": 145010913,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-06T18:27:51Z",
+            "open_issues": 97,
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3077
+            "stars": 3076,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -31,12 +36,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a fast, scalable, multi-language and extensible build system",
+                "homepage": "https://bazel.build",
                 "id": 20773773,
                 "language": "Java",
-                "last_commit": "2026-08-28T11:57:19Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:17:12Z",
+                "open_issues": 1911,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25770
+                "stars": 25773,
+                "topics": [
+                  "bazel",
+                  "build",
+                  "build-system",
+                  "correct",
+                  "fast",
+                  "multi-language",
+                  "scalable",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
             },
@@ -47,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starlark in Go: the Starlark configuration language, implemented in Go",
+                "homepage": null,
                 "id": 154343814,
                 "language": "Go",
-                "last_commit": "2026-07-10T21:17:05Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T21:03:10Z",
+                "open_issues": 77,
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2754
+                "stars": 2753,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
             },
@@ -63,12 +87,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust implementation of the Starlark language",
+                "homepage": null,
                 "id": 319383495,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T23:09:35Z",
+                "open_issues": 38,
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1015
+                "stars": 1015,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
             },
@@ -79,12 +108,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starlark in pure Python (ported from Java)",
+                "homepage": "https://pypi.org/project/starlark/",
                 "id": 1229127170,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-11T17:50:19Z",
+                "open_issues": 0,
                 "owner": "dbohdan",
                 "repo": "starlark-python",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "interpreter",
+                  "python",
+                  "starlark",
+                  "starlark-python"
+                ]
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
             }
@@ -102,12 +141,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python wrapper for starlark-rust",
+                "homepage": null,
                 "id": 435390612,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T02:48:37Z",
+                "open_issues": 4,
                 "owner": "inducer",
                 "repo": "starlark-pyo3",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "bindings",
+                  "python",
+                  "python3",
+                  "rust",
+                  "starlark"
+                ]
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
             },
@@ -118,12 +168,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐍 Python bindings for starlark-go 🐍",
+                "homepage": "https://python-starlark-go.readthedocs.io/",
                 "id": 481312275,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T18:53:16Z",
+                "open_issues": 20,
                 "owner": "caketop",
                 "repo": "python-starlark-go",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "python",
+                  "starlark",
+                  "starlark-go"
+                ]
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
             }
@@ -142,12 +201,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bazel BUILD file formatter and editor",
+            "homepage": null,
             "id": 60805080,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:13:25Z",
+            "open_issues": 120,
             "owner": "bazel-contrib",
             "repo": "buildtools",
-            "stars": 1190
+            "stars": 1190,
+            "topics": [
+              "bazel",
+              "build-tool",
+              "formatter"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -158,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based starlark playground",
+            "homepage": null,
             "id": 147097756,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-03T08:11:32Z",
+            "open_issues": 12,
             "owner": "qri-io",
             "repo": "starpg",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -174,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua binding for Sealark - Starlark parser",
+            "homepage": null,
             "id": 395074223,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-08-12T02:25:47Z",
+            "open_issues": 0,
             "owner": "obazl",
             "repo": "moonlark",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         }
@@ -196,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages.",
+            "homepage": null,
             "id": 145074684,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T19:11:47Z",
+            "open_issues": 12,
             "owner": "stripe",
             "repo": "skycfg",
-            "stars": 674
+            "stars": 674,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -212,12 +295,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a go wrapper for google's starlark embedded python language",
+            "homepage": null,
             "id": 105833862,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-05-17T04:45:26Z",
+            "open_issues": 18,
             "owner": "starlight-go",
             "repo": "starlight",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "go",
+              "golang",
+              "python",
+              "scripting",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -228,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "qri's standard library for starlark",
+            "homepage": null,
             "id": 148955221,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-04T04:13:57Z",
+            "open_issues": 39,
             "owner": "qri-io",
             "repo": "starlib",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -244,12 +343,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Yet another Go wrapper for Starlark that simplifies usage, offers data conversion and useful Starlark libraries",
+            "homepage": null,
             "id": 643249613,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-13T14:25:03Z",
+            "open_issues": 2,
             "owner": "1set",
             "repo": "starlet",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "go",
+              "golang",
+              "script",
+              "scripting",
+              "scripting-language",
+              "starlark",
+              "starlark-go",
+              "starlark-lang",
+              "starlark-language",
+              "starlarky",
+              "starlet"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -260,12 +376,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http module for starlark-go",
+            "homepage": null,
             "id": 160700519,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-09-27T06:48:47Z",
+            "open_issues": 0,
             "owner": "pcj",
             "repo": "starlark-go-nethttp",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "go",
+              "http",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -276,12 +401,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python's regex module \"re\" for Starlark.",
+            "homepage": null,
             "id": 714313723,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-22T10:28:07Z",
+            "open_issues": 0,
             "owner": "magnetde",
             "repo": "starlark-re",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "golang",
+              "regex",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -292,12 +426,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roundtrip automatic conversion of Starlark-Go API types to regular Go types and back🤩",
+            "homepage": null,
             "id": 583735985,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-15T16:39:42Z",
+            "open_issues": 0,
             "owner": "vladimirvivien",
             "repo": "startype",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "go",
+              "golang",
+              "starlark",
+              "starlark-go"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -308,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starlark to Go struct converter.",
+            "homepage": null,
             "id": 594284901,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-02-05T20:24:05Z",
+            "open_issues": 0,
             "owner": "mna",
             "repo": "starstruct",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         }
@@ -330,12 +479,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a fast, scalable, multi-language and extensible build system",
+            "homepage": "https://bazel.build",
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-28T11:57:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:17:12Z",
+            "open_issues": 1911,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25770
+            "stars": 25773,
+            "topics": [
+              "bazel",
+              "build",
+              "build-system",
+              "correct",
+              "fast",
+              "multi-language",
+              "scalable",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -346,12 +509,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delve is a debugger for the Go programming language.",
+            "homepage": null,
             "id": 19994257,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:28:43Z",
+            "open_issues": 88,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24897
+            "stars": 24899,
+            "topics": [
+              "debugger",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -362,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copybara: A tool for transforming and moving code between repositories.",
+            "homepage": null,
             "id": 67722017,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:20:28Z",
+            "open_issues": 105,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3820
+            "stars": 3821,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -378,12 +555,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏕️ Reproducible development environment for humans and agents",
+            "homepage": "https://envd.tensorchord.ai/",
             "id": 480303698,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T03:58:33Z",
+            "open_issues": 139,
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2228
+            "stars": 2228,
+            "topics": [
+              "agent",
+              "buildkit",
+              "code-agent",
+              "codex",
+              "developer-tools",
+              "development-environment",
+              "docker",
+              "hacktoberfest",
+              "llmops",
+              "mlops",
+              "mlops-workflow",
+              "model-serving"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -394,12 +589,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Durable workflow automation in just a few lines of code",
+            "homepage": "https://autokitteh.com",
             "id": 758802433,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T22:10:15Z",
+            "open_issues": 20,
             "owner": "autokitteh",
             "repo": "autokitteh",
-            "stars": 1138
+            "stars": 1138,
+            "topics": [
+              "automation",
+              "cats",
+              "distributed-systems",
+              "durable-execution",
+              "durable-functions",
+              "golang",
+              "kittehs",
+              "kittens",
+              "python",
+              "temporal",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management",
+              "workflows",
+              "workflows-as-code"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -410,12 +627,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deployment platform for teams to deploy internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes, with OIDC/SAML auth and RBAC.",
+            "homepage": "https://openrun.dev/",
             "id": 627567877,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:03:24Z",
+            "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 946
+            "stars": 947,
+            "topics": [
+              "appserver",
+              "containers",
+              "deployment",
+              "devops-tools",
+              "docker",
+              "golang",
+              "htmx",
+              "internal-tools",
+              "kubernetes",
+              "kubernetes-deployment",
+              "openrun",
+              "self-hosted",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -426,12 +662,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build apps for pixel-based displays ✨",
+            "homepage": "https://tidbyt.com",
             "id": 303830736,
             "language": "Go",
-            "last_commit": "2026-08-26T12:52:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:02:50Z",
+            "open_issues": 71,
             "owner": "tidbyt",
             "repo": "pixlet",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "golang",
+              "led-display",
+              "led-matrix-displays",
+              "pixlet",
+              "starlark",
+              "tidbyt"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -442,12 +690,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.",
+            "homepage": "https://docs.realm.pub/",
             "id": 459365817,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T21:41:28Z",
+            "open_issues": 84,
             "owner": "spellshift",
             "repo": "realm",
-            "stars": 635
+            "stars": 635,
+            "topics": [
+              "agent",
+              "bot",
+              "c2",
+              "cyber",
+              "cybersecurity",
+              "golang",
+              "graphql",
+              "implant",
+              "react",
+              "redteam",
+              "redteam-tools",
+              "redteaming",
+              "rust",
+              "teamserver",
+              "typescript",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -458,12 +728,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2",
+            "homepage": "https://pypi.org/project/remarshal/",
             "id": 24801045,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-01T07:20:07Z",
+            "open_issues": 5,
             "owner": "remarshal-project",
             "repo": "remarshal",
-            "stars": 552
+            "stars": 552,
+            "topics": [
+              "cli",
+              "command-line-tool",
+              "conversion",
+              "converter",
+              "json",
+              "messagepack",
+              "msgpack",
+              "starlark",
+              "starlark-python",
+              "toml",
+              "utility",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -474,12 +762,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A platform for packaging and launching blockchain infra. Think docker compose for blockchain",
+            "homepage": "https://docs.kurtosistech.com/",
             "id": 601684708,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T19:53:04Z",
+            "open_issues": 307,
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
-            "stars": 549
+            "stars": 549,
+            "topics": [
+              "backend",
+              "cicd",
+              "containerization",
+              "deploy",
+              "devops",
+              "distributed-systems",
+              "docker",
+              "docker-compose",
+              "environment",
+              "go",
+              "infrastructure",
+              "kubernetes",
+              "networks",
+              "prototyping"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -490,12 +798,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An expressive DSL and framework for Kubernetes configuration without YAML",
+            "homepage": null,
             "id": 206711402,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-17T05:24:18Z",
+            "open_issues": 20,
             "owner": "cruise-automation",
             "repo": "isopod",
-            "stars": 485
+            "stars": 485,
+            "topics": [
+              "configuration",
+              "go",
+              "golang",
+              "k8s",
+              "kubernetes",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -506,12 +826,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retry a command with exponential backoff and jitter (+ Starlark expressions)",
+            "homepage": null,
             "id": 875231787,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-23T13:47:13Z",
+            "open_issues": 0,
             "owner": "dbohdan",
             "repo": "recur",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "go",
+              "golang",
+              "retry",
+              "starlark",
+              "starlark-go"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -522,12 +853,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Purely functional build system and package manager",
+            "homepage": "https://maxmcd.com/posts/bramble/",
             "id": 272861057,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-29T14:47:53Z",
+            "open_issues": 16,
             "owner": "maxmcd",
             "repo": "bramble",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "bramble",
+              "build-system",
+              "golang",
+              "package-manager",
+              "reproducibility",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -538,12 +881,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AsCode - Terraform Alternative Syntax",
+            "homepage": "https://ascode.run",
             "id": 193985540,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-21T18:37:03Z",
+            "open_issues": 2,
             "owner": "mcuadros",
             "repo": "ascode",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "hcl",
+              "infrastructure",
+              "language",
+              "starlark",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         },
@@ -554,12 +908,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bird: Fast HTTP server that supports handlers written in Starlark",
+            "homepage": null,
             "id": 210335149,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-19T13:51:35Z",
+            "open_issues": 1,
             "owner": "xyproto",
             "repo": "gnetlark",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "gnet",
+              "http",
+              "minimalistic",
+              "server",
+              "starlark"
+            ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
         }
@@ -568,15 +933,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:09:32.971Z",
+    "last_updated": "2026-08-29T05:01:35.969Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome things related to the Starlark language",
+      "homepage": null,
       "id": 880412340,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-23T18:20:35Z",
+      "open_issues": 2,
       "owner": "laurentlb",
       "repo": "awesome-starlark",
-      "stars": 80
+      "stars": 80,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "starlark"
+      ]
     },
     "original_repository_sha": "c99dd4424b448cc3e1e44acff92ad3d5a7b44791",
     "enhanced_repository": "enhansome/enhansome-starlark",
