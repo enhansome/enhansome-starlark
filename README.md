@@ -84,9 +84,9 @@ List of projects that use Starlark.
 * [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,773 | 🐛 1,911 | 🌐 Java | 📅 2026-08-28 - a fast, scalable,
   multi-language and extensible build system. Starlark has been designed for
   Bazel.
-* [Delve](https://github.com/go-delve/delve) ⭐ 24,899 | 🐛 88 | 🌐 Go | 📅 2026-08-26 - a debugger for the Go
+* [Delve](https://github.com/go-delve/delve) ⭐ 24,900 | 🐛 88 | 🌐 Go | 📅 2026-08-26 - a debugger for the Go
   programming language, aiming to provide a simple, full featured debugging
-  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,899 | 🐛 88 | 🌐 Go | 📅 2026-08-26
+  tool for Go. [Delve uses Starlark](https://github.com/go-delve/delve/blob/master/Documentation/cli/starlark.md) ⭐ 24,900 | 🐛 88 | 🌐 Go | 📅 2026-08-26
   as a a scripting language.
 * [Copybara](https://github.com/google/copybara) ⭐ 3,821 | 🐛 105 | 🌐 Java | 📅 2026-08-26 - a tool for transforming and
   moving code between repositories. It embeds Starlark to configure the workflow.

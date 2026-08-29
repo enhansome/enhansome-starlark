@@ -518,7 +518,7 @@
             "open_issues": 88,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24899,
+            "stars": 24900,
             "topics": [
               "debugger",
               "go",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:35.969Z",
+    "last_updated": "2026-08-29T07:19:53.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
