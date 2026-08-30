@@ -42,10 +42,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:17:12Z",
-                "open_issues": 1911,
+                "open_issues": 1913,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25773,
+                "stars": 25777,
                 "topics": [
                   "bazel",
                   "build",
@@ -75,7 +75,7 @@
                 "open_issues": 77,
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -96,7 +96,7 @@
                 "open_issues": 38,
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -485,10 +485,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:17:12Z",
-            "open_issues": 1911,
+            "open_issues": 1913,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25773,
+            "stars": 25777,
             "topics": [
               "bazel",
               "build",
@@ -632,11 +632,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T23:03:24Z",
+            "last_commit": "2026-08-29T19:13:03Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 947,
+            "stars": 951,
             "topics": [
               "appserver",
               "containers",
@@ -667,8 +667,8 @@
             "id": 303830736,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:02:50Z",
-            "open_issues": 71,
+            "last_commit": "2026-08-30T04:50:35Z",
+            "open_issues": 70,
             "owner": "tidbyt",
             "repo": "pixlet",
             "stars": 847,
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:19:53.493Z",
+    "last_updated": "2026-08-30T05:45:42.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
