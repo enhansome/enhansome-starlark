@@ -19,7 +19,7 @@
             "open_issues": 97,
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3084,
+            "stars": 3085,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T23:44:14Z",
-                "open_issues": 1785,
+                "last_commit": "2026-09-09T21:55:21Z",
+                "open_issues": 1777,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25817,
+                "stars": 25822,
                 "topics": [
                   "bazel",
                   "build",
@@ -75,7 +75,7 @@
                 "open_issues": 78,
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2758,
+                "stars": 2759,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -92,7 +92,7 @@
                 "id": 319383495,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T02:14:30Z",
+                "last_commit": "2026-09-10T02:56:04Z",
                 "open_issues": 40,
                 "owner": "facebook",
                 "repo": "starlark-rust",
@@ -173,8 +173,8 @@
                 "id": 481312275,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T18:54:50Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-09T18:52:54Z",
+                "open_issues": 16,
                 "owner": "caketop",
                 "repo": "python-starlark-go",
                 "stars": 35,
@@ -283,7 +283,7 @@
             "open_issues": 12,
             "owner": "stripe",
             "repo": "skycfg",
-            "stars": 674,
+            "stars": 675,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -484,11 +484,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T23:44:14Z",
-            "open_issues": 1785,
+            "last_commit": "2026-09-09T21:55:21Z",
+            "open_issues": 1777,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25817,
+            "stars": 25822,
             "topics": [
               "bazel",
               "build",
@@ -514,11 +514,11 @@
             "id": 19994257,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T17:50:25Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-09T15:49:05Z",
+            "open_issues": 83,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24913,
+            "stars": 24914,
             "topics": [
               "debugger",
               "go",
@@ -543,7 +543,7 @@
             "open_issues": 105,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3832,
+            "stars": 3834,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -667,7 +667,7 @@
             "id": 303830736,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T21:02:00Z",
+            "last_commit": "2026-09-09T18:18:31Z",
             "open_issues": 73,
             "owner": "tidbyt",
             "repo": "pixlet",
@@ -723,6 +723,40 @@
         },
         {
           "node_type": "item",
+          "title": "Remarshal",
+          "description": "a data format converter for CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2. Supports transformations written in Starlark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2",
+            "homepage": "https://pypi.org/project/remarshal/",
+            "id": 24801045,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-01T07:20:07Z",
+            "open_issues": 5,
+            "owner": "remarshal-project",
+            "repo": "remarshal",
+            "stars": 552,
+            "topics": [
+              "cli",
+              "command-line-tool",
+              "conversion",
+              "converter",
+              "json",
+              "messagepack",
+              "msgpack",
+              "starlark",
+              "starlark-python",
+              "toml",
+              "utility",
+              "yaml"
+            ]
+          },
+          "first_seen": "2026-08-28T12:09:32.971Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kurtosis",
           "description": "a developer tool for engineers to package and run environments of containerized services for development, testing, and production. Starlark is used as the DSL for defining those environments in a deterministic, portable, and readable way, without compromising usability for complex cases.",
           "children": [],
@@ -733,8 +767,8 @@
             "id": 601684708,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T23:01:56Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-09T12:51:32Z",
+            "open_issues": 313,
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
             "stars": 551,
@@ -753,40 +787,6 @@
               "kubernetes",
               "networks",
               "prototyping"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:32.971Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Remarshal",
-          "description": "a data format converter for CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2. Supports transformations written in Starlark.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2",
-            "homepage": "https://pypi.org/project/remarshal/",
-            "id": 24801045,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-01T07:20:07Z",
-            "open_issues": 5,
-            "owner": "remarshal-project",
-            "repo": "remarshal",
-            "stars": 551,
-            "topics": [
-              "cli",
-              "command-line-tool",
-              "conversion",
-              "converter",
-              "json",
-              "messagepack",
-              "msgpack",
-              "starlark",
-              "starlark-python",
-              "toml",
-              "utility",
-              "yaml"
             ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:10:07.520Z",
+    "last_updated": "2026-09-10T05:12:24.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
