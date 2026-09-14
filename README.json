@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T21:19:22Z",
-                "open_issues": 1764,
+                "last_commit": "2026-09-13T17:12:43Z",
+                "open_issues": 1776,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25842,
+                "stars": 25846,
                 "topics": [
                   "bazel",
                   "build",
@@ -92,7 +92,7 @@
                 "id": 319383495,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T22:21:34Z",
+                "last_commit": "2026-09-13T05:41:14Z",
                 "open_issues": 40,
                 "owner": "facebook",
                 "repo": "starlark-rust",
@@ -210,7 +210,7 @@
             "open_issues": 123,
             "owner": "bazel-contrib",
             "repo": "buildtools",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "bazel",
               "build-tool",
@@ -484,11 +484,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T21:19:22Z",
-            "open_issues": 1764,
+            "last_commit": "2026-09-13T17:12:43Z",
+            "open_issues": 1776,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25842,
+            "stars": 25846,
             "topics": [
               "bazel",
               "build",
@@ -518,7 +518,7 @@
             "open_issues": 86,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24915,
+            "stars": 24916,
             "topics": [
               "debugger",
               "go",
@@ -539,11 +539,11 @@
             "id": 67722017,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T20:08:19Z",
-            "open_issues": 105,
+            "last_commit": "2026-09-14T05:12:34Z",
+            "open_issues": 106,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3838,
+            "stars": 3839,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -699,7 +699,7 @@
             "open_issues": 84,
             "owner": "spellshift",
             "repo": "realm",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "agent",
               "bot",
@@ -717,6 +717,42 @@
               "teamserver",
               "typescript",
               "webui"
+            ]
+          },
+          "first_seen": "2026-08-28T12:09:32.971Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kurtosis",
+          "description": "a developer tool for engineers to package and run environments of containerized services for development, testing, and production. Starlark is used as the DSL for defining those environments in a deterministic, portable, and readable way, without compromising usability for complex cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A platform for packaging and launching blockchain infra. Think docker compose for blockchain",
+            "homepage": "https://docs.kurtosistech.com/",
+            "id": 601684708,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-09T12:51:32Z",
+            "open_issues": 313,
+            "owner": "kurtosis-tech",
+            "repo": "kurtosis",
+            "stars": 552,
+            "topics": [
+              "backend",
+              "cicd",
+              "containerization",
+              "deploy",
+              "devops",
+              "distributed-systems",
+              "docker",
+              "docker-compose",
+              "environment",
+              "go",
+              "infrastructure",
+              "kubernetes",
+              "networks",
+              "prototyping"
             ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -751,42 +787,6 @@
               "toml",
               "utility",
               "yaml"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:32.971Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kurtosis",
-          "description": "a developer tool for engineers to package and run environments of containerized services for development, testing, and production. Starlark is used as the DSL for defining those environments in a deterministic, portable, and readable way, without compromising usability for complex cases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A platform for packaging and launching blockchain infra. Think docker compose for blockchain",
-            "homepage": "https://docs.kurtosistech.com/",
-            "id": 601684708,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-09T12:51:32Z",
-            "open_issues": 313,
-            "owner": "kurtosis-tech",
-            "repo": "kurtosis",
-            "stars": 551,
-            "topics": [
-              "backend",
-              "cicd",
-              "containerization",
-              "deploy",
-              "devops",
-              "distributed-systems",
-              "docker",
-              "docker-compose",
-              "environment",
-              "go",
-              "infrastructure",
-              "kubernetes",
-              "networks",
-              "prototyping"
             ]
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:19:36.629Z",
+    "last_updated": "2026-09-14T05:23:48.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
