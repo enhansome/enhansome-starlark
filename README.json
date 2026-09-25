@@ -19,7 +19,7 @@
             "open_issues": 98,
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3092,
+            "stars": 3094,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T01:36:54Z",
-                "open_issues": 1771,
+                "last_commit": "2026-09-24T22:28:03Z",
+                "open_issues": 1790,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25878,
+                "stars": 25879,
                 "topics": [
                   "bazel",
                   "build",
@@ -75,7 +75,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -92,7 +92,7 @@
                 "id": 319383495,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T21:52:42Z",
+                "last_commit": "2026-09-24T13:50:59Z",
                 "open_issues": 40,
                 "owner": "facebook",
                 "repo": "starlark-rust",
@@ -505,11 +505,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T01:36:54Z",
-            "open_issues": 1771,
+            "last_commit": "2026-09-24T22:28:03Z",
+            "open_issues": 1790,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25878,
+            "stars": 25879,
             "topics": [
               "bazel",
               "build",
@@ -539,7 +539,7 @@
             "open_issues": 81,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24925,
+            "stars": 24927,
             "topics": [
               "debugger",
               "go",
@@ -564,7 +564,7 @@
             "open_issues": 106,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3853,
+            "stars": 3855,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -585,7 +585,7 @@
             "open_issues": 139,
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2236,
+            "stars": 2235,
             "topics": [
               "agent",
               "buildkit",
@@ -653,11 +653,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T21:57:41Z",
+            "last_commit": "2026-09-25T03:59:38Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 976,
+            "stars": 975,
             "topics": [
               "appserver",
               "containers",
@@ -688,7 +688,7 @@
             "id": 303830736,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T19:45:43Z",
+            "last_commit": "2026-09-25T03:03:37Z",
             "open_issues": 73,
             "owner": "tidbyt",
             "repo": "pixlet",
@@ -754,7 +754,7 @@
             "id": 601684708,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T12:51:32Z",
+            "last_commit": "2026-09-24T19:56:38Z",
             "open_issues": 312,
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:19:10.471Z",
+    "last_updated": "2026-09-25T05:20:15.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
