@@ -9,10 +9,10 @@ Starlark is a simple, Python-like language designed to be embedded in another ap
 * [The language specification](https://github.com/bazelbuild/starlark/blob/master/spec.md) ⭐ 3,103 | 🐛 99 | 🌐 Python | 📅 2026-02-06
 
 * There are 5 known implementations of the Starlark language:
-  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,919 | 🐛 1,889 | 🌐 Java | 📅 2026-10-06 - an implementation in Java
+  * [starlark/java](https://github.com/bazelbuild/bazel/tree/master/src/main/java/net/starlark/java) ⭐ 25,920 | 🐛 1,891 | 🌐 Java | 📅 2026-10-06 - an implementation in Java
     built for Bazel, that may not be suitable for use in other applications.
   * [starlark-go](https://github.com/google/starlark-go/) ⭐ 2,781 | 🐛 81 | 🌐 Go | 📅 2026-10-05 - an implementation in Go.
-  * [starlark-rust](https://github.com/facebookexperimental/starlark-rust) ⭐ 1,032 | 🐛 43 | 🌐 Rust | 📅 2026-10-05 - an implementation in Rust.
+  * [starlark-rust](https://github.com/facebookexperimental/starlark-rust) ⭐ 1,032 | 🐛 43 | 🌐 Rust | 📅 2026-10-06 - an implementation in Rust.
   * [starlark-python](https://github.com/dbohdan/starlark-python) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-06-11 - an implementation in Python originally ported from Java by AI.
   * [starlark-cpp](https://github.com/lgalfaso/starlark-cpp) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-10-03 - an implementation in C++
 
@@ -82,7 +82,7 @@ Otherwise, consider using a Python mode.
 
 List of projects that use Starlark.
 
-* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,919 | 🐛 1,889 | 🌐 Java | 📅 2026-10-06 - a fast, scalable,
+* [Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,920 | 🐛 1,891 | 🌐 Java | 📅 2026-10-06 - a fast, scalable,
   multi-language and extensible build system. Starlark has been designed for
   Bazel.
 * [Delve](https://github.com/go-delve/delve) ⭐ 24,940 | 🐛 81 | 🌐 Go | 📅 2026-09-29 - a debugger for the Go
