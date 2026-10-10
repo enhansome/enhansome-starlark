@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T02:52:04Z",
-                "open_issues": 1940,
+                "last_commit": "2026-10-09T22:28:21Z",
+                "open_issues": 1954,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25928,
+                "stars": 25933,
                 "topics": [
                   "bazel",
                   "build",
@@ -72,10 +72,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-05T22:25:34Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2783,
+                "stars": 2784,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -96,7 +96,7 @@
                 "open_issues": 45,
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -505,11 +505,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T02:52:04Z",
-            "open_issues": 1940,
+            "last_commit": "2026-10-09T22:28:21Z",
+            "open_issues": 1954,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25928,
+            "stars": 25933,
             "topics": [
               "bazel",
               "build",
@@ -536,10 +536,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-07T19:26:27Z",
-            "open_issues": 80,
+            "open_issues": 82,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24940,
+            "stars": 24942,
             "topics": [
               "debugger",
               "go",
@@ -560,11 +560,11 @@
             "id": 67722017,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T19:46:38Z",
+            "last_commit": "2026-10-09T16:54:10Z",
             "open_issues": 105,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3872,
+            "stars": 3874,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -653,7 +653,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T02:35:15Z",
+            "last_commit": "2026-10-09T20:15:56Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -720,7 +720,7 @@
             "open_issues": 89,
             "owner": "spellshift",
             "repo": "realm",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "agent",
               "bot",
@@ -758,7 +758,7 @@
             "open_issues": 301,
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "backend",
               "cicd",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:38:47.925Z",
+    "last_updated": "2026-10-10T06:20:18.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
