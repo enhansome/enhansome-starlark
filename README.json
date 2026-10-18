@@ -42,10 +42,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T20:16:36Z",
-                "open_issues": 1971,
+                "open_issues": 1976,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25957,
+                "stars": 25961,
                 "topics": [
                   "bazel",
                   "build",
@@ -93,10 +93,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T09:00:47Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "facebook",
                 "repo": "starlark-rust",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -139,7 +139,7 @@
                 "id": 1378596181,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-16T20:16:51Z",
+                "last_commit": "2026-10-17T16:59:48Z",
                 "open_issues": 0,
                 "owner": "lgalfaso",
                 "repo": "starlark-cpp",
@@ -227,8 +227,8 @@
             "id": 60805080,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T19:38:04Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-17T22:54:18Z",
+            "open_issues": 122,
             "owner": "bazel-contrib",
             "repo": "buildtools",
             "stars": 1195,
@@ -506,10 +506,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T20:16:36Z",
-            "open_issues": 1971,
+            "open_issues": 1976,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25957,
+            "stars": 25961,
             "topics": [
               "bazel",
               "build",
@@ -564,7 +564,7 @@
             "open_issues": 107,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3884,
+            "stars": 3886,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:56:45.174Z",
+    "last_updated": "2026-10-18T05:04:53.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
