@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3137,
+            "stars": 3138,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T09:15:44Z",
-                "open_issues": 2199,
+                "last_commit": "2026-11-23T07:30:00Z",
+                "open_issues": 2210,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 26132,
+                "stars": 26133,
                 "topics": [
                   "bazel",
                   "build",
@@ -75,7 +75,7 @@
                 "open_issues": 88,
                 "owner": "google",
                 "repo": "starlark-go",
-                "stars": 2798,
+                "stars": 2799,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -96,7 +96,7 @@
                 "open_issues": 53,
                 "owner": "meta",
                 "repo": "starlark-rust",
-                "stars": 1056,
+                "stars": 1058,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -171,7 +171,7 @@
                 "open_issues": 4,
                 "owner": "inducer",
                 "repo": "starlark-pyo3",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "bindings",
                   "python",
@@ -505,11 +505,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T09:15:44Z",
-            "open_issues": 2199,
+            "last_commit": "2026-11-23T07:30:00Z",
+            "open_issues": 2210,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 26132,
+            "stars": 26133,
             "topics": [
               "bazel",
               "build",
@@ -539,7 +539,7 @@
             "open_issues": 81,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24986,
+            "stars": 24988,
             "topics": [
               "debugger",
               "go",
@@ -564,7 +564,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3943,
+            "stars": 3944,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 1002,
+            "stars": 1004,
             "topics": [
               "appserver",
               "containers",
@@ -692,7 +692,7 @@
             "open_issues": 77,
             "owner": "tidbyt",
             "repo": "pixlet",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "golang",
               "led-display",
@@ -716,11 +716,11 @@
             "id": 459365817,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T04:16:55Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-23T04:21:05Z",
+            "open_issues": 77,
             "owner": "spellshift",
             "repo": "realm",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "agent",
               "bot",
@@ -934,11 +934,11 @@
             "id": 1377087398,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-22T04:24:15Z",
-            "open_issues": 953,
+            "last_commit": "2026-11-22T23:21:55Z",
+            "open_issues": 656,
             "owner": "flisk-sh",
             "repo": "flisk",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -986,7 +986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:24:06.326Z",
+    "last_updated": "2026-11-23T08:08:12.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
