@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3139,
+            "stars": 3140,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T10:20:00Z",
-                "open_issues": 2198,
+                "last_commit": "2026-11-25T08:34:00Z",
+                "open_issues": 2178,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 26133,
+                "stars": 26140,
                 "topics": [
                   "bazel",
                   "build",
@@ -92,11 +92,11 @@
                 "id": 319383495,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T09:02:46Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-25T03:54:52Z",
+                "open_issues": 54,
                 "owner": "meta",
                 "repo": "starlark-rust",
-                "stars": 1059,
+                "stars": 1061,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -117,7 +117,7 @@
                 "open_issues": 0,
                 "owner": "dbohdan",
                 "repo": "starlark-python",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "interpreter",
                   "python",
@@ -505,11 +505,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T10:20:00Z",
-            "open_issues": 2198,
+            "last_commit": "2026-11-25T08:34:00Z",
+            "open_issues": 2178,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 26133,
+            "stars": 26140,
             "topics": [
               "bazel",
               "build",
@@ -539,7 +539,7 @@
             "open_issues": 81,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24987,
+            "stars": 24988,
             "topics": [
               "debugger",
               "go",
@@ -560,11 +560,11 @@
             "id": 67722017,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T11:04:16Z",
+            "last_commit": "2026-11-24T18:56:46Z",
             "open_issues": 111,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3947,
+            "stars": 3948,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -585,7 +585,7 @@
             "open_issues": 140,
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2250,
+            "stars": 2251,
             "topics": [
               "agent",
               "buildkit",
@@ -717,7 +717,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-23T04:21:05Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "spellshift",
             "repo": "realm",
             "stars": 648,
@@ -758,7 +758,7 @@
             "open_issues": 290,
             "owner": "kurtosis-tech",
             "repo": "kurtosis",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "backend",
               "cicd",
@@ -924,38 +924,6 @@
         },
         {
           "node_type": "item",
-          "title": "Flisk",
-          "description": "a CLI that starts local services on your machine. Its discovery engine, service definitions and generated Tiltfiles are written in Starlark ( files).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain commands, and an MCP server gives Claude Code, Cursor and Codex its health, logs and controls. MIT, no account. https://flisk.sh",
-            "homepage": "https://flisk.sh",
-            "id": 1377087398,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-24T10:19:09Z",
-            "open_issues": 666,
-            "owner": "flisk-sh",
-            "repo": "flisk",
-            "stars": 58,
-            "topics": [
-              "ai-agents",
-              "claude-code",
-              "developer-experience",
-              "developer-tools",
-              "docker-compose",
-              "flisk",
-              "local-development",
-              "mcp",
-              "mcp-server",
-              "tilt"
-            ]
-          },
-          "first_seen": "2026-10-26T05:13:56.358Z"
-        },
-        {
-          "node_type": "item",
           "title": "gnetlark",
           "description": "a web server with handlers written in Starlark.",
           "children": [],
@@ -986,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:22:37.433Z",
+    "last_updated": "2026-11-25T09:03:55.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
