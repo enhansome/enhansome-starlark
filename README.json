@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "bazelbuild",
             "repo": "starlark",
-            "stars": 3140,
+            "stars": 3141,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -41,11 +41,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T08:34:00Z",
-                "open_issues": 2178,
+                "last_commit": "2026-11-26T08:38:26Z",
+                "open_issues": 2148,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 26140,
+                "stars": 26145,
                 "topics": [
                   "bazel",
                   "build",
@@ -71,8 +71,8 @@
                 "id": 154343814,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-21T14:17:11Z",
-                "open_issues": 85,
+                "last_commit": "2026-11-25T15:14:55Z",
+                "open_issues": 87,
                 "owner": "google",
                 "repo": "starlark-go",
                 "stars": 2800,
@@ -92,11 +92,11 @@
                 "id": 319383495,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T03:54:52Z",
+                "last_commit": "2026-11-25T20:34:09Z",
                 "open_issues": 54,
                 "owner": "meta",
                 "repo": "starlark-rust",
-                "stars": 1061,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:32.971Z"
@@ -431,7 +431,7 @@
             "open_issues": 0,
             "owner": "magnetde",
             "repo": "starlark-re",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "golang",
               "regex",
@@ -505,11 +505,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T08:34:00Z",
-            "open_issues": 2178,
+            "last_commit": "2026-11-26T08:38:26Z",
+            "open_issues": 2148,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 26140,
+            "stars": 26145,
             "topics": [
               "bazel",
               "build",
@@ -536,10 +536,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-21T20:58:06Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "go-delve",
             "repo": "delve",
-            "stars": 24988,
+            "stars": 24991,
             "topics": [
               "debugger",
               "go",
@@ -564,7 +564,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3948,
+            "stars": 3951,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:32.971Z"
@@ -585,7 +585,7 @@
             "open_issues": 140,
             "owner": "tensorchord",
             "repo": "envd",
-            "stars": 2251,
+            "stars": 2252,
             "topics": [
               "agent",
               "buildkit",
@@ -688,7 +688,7 @@
             "id": 303830736,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T22:54:11Z",
+            "last_commit": "2026-11-25T14:53:39Z",
             "open_issues": 77,
             "owner": "tidbyt",
             "repo": "pixlet",
@@ -716,8 +716,8 @@
             "id": 459365817,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T04:21:05Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-26T02:23:00Z",
+            "open_issues": 64,
             "owner": "spellshift",
             "repo": "realm",
             "stars": 648,
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:03:55.282Z",
+    "last_updated": "2026-11-26T08:51:24.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to the Starlark language",
